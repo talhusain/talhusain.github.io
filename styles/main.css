@@ -44,11 +44,12 @@ div{
    border-bottom-color:black;
    border-bottom-style: solid;
    width: 100%;
-   height: 40%;
+   height: 50%;
    display: inline-block;
    vertical-align: center;
    float: center;
    clear: none;
+   color: white;
 }
 
 .divthird{
@@ -101,7 +102,7 @@ footer{
 .text{
 	background-color: rgb(17, 42, 81);
 	display: inline-block;
-	color: black;
+	color: white;
 	border-bottom: 50px
 	border-color:black;
 }
@@ -128,8 +129,9 @@ textarea{
 }
 .scrollit {
     overflow-y:scroll;
-    height: 90%;
+    height: 70%;
     width: 90%;
+    color: black;
 
 }
 
